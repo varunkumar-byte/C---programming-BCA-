@@ -2,9 +2,9 @@
 <br>
 <mark>Topics Covered</mark>
 <ol>
-1.Functions
-2.Loops
-3.if-else
+1.Functions <br>
+2.Loops <br>
+3.if-else <br>
 4.nested if-else
 </ol>
 
