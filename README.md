@@ -5,6 +5,7 @@
 1.Functions <br>
 2.Loops <br>
 3.if-else <br>
-4.nested if-else
+4.nested if-else <br>
+5.Switch ,break , default 
 </ol>
 
